@@ -24,6 +24,7 @@ Random stuff about EOS
 
 - <https://github.com/eosasia/eos-todo>
 - <https://github.com/venediktov/vanilla-rtb/tree/6eaf17b3156968a51c4cb6c6e9912249cd319b24/examples>
+- <https://github.com/EveripediaNetwork/Everipedia>
 
 ### tutorials
 
