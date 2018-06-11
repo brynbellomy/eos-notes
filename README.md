@@ -16,7 +16,9 @@ Random stuff about EOS
 
 ### specific topics
 
+- cleos commands <https://github.com/EOSIO/eos/wiki/Command-Reference>
 - cleos get table <https://github.com/EOSIO/eos/issues/1742>
+- get currency balance <https://github.com/EOSIO/eosjs/issues/65>
 
 ### apps
 
@@ -27,6 +29,7 @@ Random stuff about EOS
 
 - <https://medium.com/coinmonks/your-first-eos-dapp-the-setup-dde55d3dcfb7>
 - <https://medium.com/coinmonks/your-first-eos-dapp-the-contract-ce793f43d852>
+- EOS Dawn 3 full dApp tutorial series <https://www.youtube.com/playlist?list=PLvpGYhOe8UbsKmsYW98dM1yt1sEbeNqIq>
 
 ### lists of links
 
